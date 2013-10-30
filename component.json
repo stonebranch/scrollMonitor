@@ -1,0 +1,17 @@
+{
+  "name": "scrollMonitor",
+  "description": "Scroll library to monitor element positions",
+  "keywords": [
+    "scroll",
+    "scroll monitor"
+  ],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "version": "1.0.7",
+  "scripts": [
+    "scrollMonitor.js"
+  ],
+  "license": "MIT",
+  "repo": "https://raw.github.com/stonebranch/scrollMonitor/master/scrollMonitor.js"
+}
