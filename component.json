@@ -10,8 +10,8 @@
   },
   "version": "1.0.7",
   "scripts": [
-    "scrollMonitor.js"
+    "index.js"
   ],
   "license": "MIT",
-  "repo": "https://raw.github.com/stonebranch/scrollMonitor/master/scrollMonitor.js"
+  "repo": "https://raw.github.com/stonebranch/scrollMonitor/master/index.js"
 }
